@@ -1,19 +1,14 @@
 # Introduction
-visualSKOS aims to provide a nice graphical visualization of an SKOS graph.
 
-visualSKOS builds heavily on [visualRDF](https://github.com/alangrafu/visualRDF)
+visualSKOS aims to provide a nice graphical visualization of an SKOS graph. It builds heavily on [visualRDF](https://github.com/alangrafu/visualRDF).
 
 visualRDF is a one night-fork from visualSPARQL (see alangrafu's profile for more projects).
 It will probably stay in this status for a while.
 
-visualRDF uses d3.js[1] for rendering and ARC2[2] for parsing RDF.
+visualRDF uses [d3.js](http://mbostock.github.com/d3/) for rendering and [ARC2](https://github.com/semsol/arc2) for parsing RDF.
 
 If you have any comments, bug reports, etc. Please create an issue on github.
 
 # Demo
 
 A demo is available at http://graves.cl/visualRDF
-
-
-[1] http://mbostock.github.com/d3/
-[2] https://github.com/semsol/arc2

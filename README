@@ -1,7 +1,9 @@
 # Introduction
-visualRDF aims to provide a nice graphical visualization of an RDF graph.
+visualSKOS aims to provide a nice graphical visualization of an SKOS graph.
 
-visualRDF is a one night-fork from visualSPARQL (see my profile for more projects).
+visualSKOS builds heavily on [visualRDF](https://github.com/alangrafu/visualRDF)
+
+visualRDF is a one night-fork from visualSPARQL (see alangrafu's profile for more projects).
 It will probably stay in this status for a while.
 
 visualRDF uses d3.js[1] for rendering and ARC2[2] for parsing RDF.

@@ -11,4 +11,4 @@ If you have any comments, bug reports, etc. Please create an issue on github.
 
 # Demo
 
-A demo is available at http://graves.cl/visualRDF
+A demo of visualRDF is available at http://graves.cl/visualRDF.
